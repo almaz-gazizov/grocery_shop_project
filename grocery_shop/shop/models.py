@@ -9,8 +9,6 @@ User = get_user_model()
 
 MAX_LEN_NAME = 200
 MAX_LEN_STR = 30
-AMOUNT_MIN_VALUE = 1
-AMOUNT_MAX_VALUE = 32000
 
 
 class CategorySubcategoryModel(models.Model):
